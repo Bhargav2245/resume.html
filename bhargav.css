@@ -1,0 +1,40 @@
+h1{
+    color: darkmagenta;
+    text-align: center;
+}
+h3{
+    color: rgb(22, 151, 151);
+    text-align: center;
+}
+h2{
+    color: midnightblue;
+    text-align: left;
+    font-style: inherit ;
+}
+.favHeading
+{
+    color: crimson;
+    font-style: inherit;
+}
+#regular
+{
+    color:darkgoldenrod;
+    font-style: inherit;
+}
+#secondary
+{
+    color: darkslategray;
+    text-align: left;
+}
+.favHeading2{
+    color: chartreuse;
+    text-align: left;
+}
+#regular2
+{
+    color: rgb(158, 8, 88);
+    text-align: left;
+}
+h4{
+    text-align: center;
+}
